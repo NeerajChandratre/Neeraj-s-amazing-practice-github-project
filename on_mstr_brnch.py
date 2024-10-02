@@ -1,1 +1,1 @@
-print('dragons are cool species, wish it was there')
+print('Dinosaurs are cool species, wish it was there')
